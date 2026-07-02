@@ -47,6 +47,6 @@ Built a modern responsive e-commerce web application with dynamic product listin
 # Technologies Used
 ==>HTML5
 
-==>Tailwind CSS
+==>CSS
 
 ==>Vanilla JavaScript
